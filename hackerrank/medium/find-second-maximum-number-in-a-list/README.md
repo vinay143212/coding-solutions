@@ -31,7 +31,7 @@ Print the runner-up score.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-14T18:57:10.190Z  
+**Submitted:** 2026-08-17T13:35:12.295Z  
 
 ```py
 if __name__ == '__main__':
