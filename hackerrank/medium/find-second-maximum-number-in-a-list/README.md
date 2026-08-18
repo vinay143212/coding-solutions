@@ -31,7 +31,7 @@ Print the runner-up score.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-17T13:35:29.725Z  
+**Submitted:** 2026-08-18T08:22:43.851Z  
 
 ```py
 if __name__ == '__main__':
@@ -39,7 +39,7 @@ if __name__ == '__main__':
     arr = map(int, input().split())
     
     #s =set(arr)
-   #l = list(s)
+    #l = list(s)
     
     #l.sort()
     #print(l[-2])
