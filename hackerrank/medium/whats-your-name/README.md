@@ -36,7 +36,7 @@ The length of the first and last names are each &le; $10$.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-23T15:34:25.845Z  
+**Submitted:** 2026-08-23T15:34:57.046Z  
 
 ```py
 #
