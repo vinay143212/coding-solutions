@@ -10,7 +10,7 @@ In this challenge, the user enters a string and a substring. You have to print t
 
 **Input Format**  
 
-The first line of input contains the original string. The next line contains the substring.
+The first line of input contains the original string. The next line contains the  substring.
 
 **Constraints**  
 
