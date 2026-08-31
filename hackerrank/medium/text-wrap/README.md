@@ -11,7 +11,7 @@ Your task is to wrap the string into a paragraph of width $w$.
 
 **Function Description**   
 
-Complete the *wrap* function in the editor below.  
+Complete the *wrap* function in the editor below.        
 
 *wrap* has the following parameters:   
 
