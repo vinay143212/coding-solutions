@@ -12,7 +12,7 @@ Given a full name, your task is to _capitalize_ the name appropriately.
 
 **Input Format**
 
-A single line of input containing the full name, $S$.
+A single line of input containing the full name, $S$.  
 
 **Constraints**
 
