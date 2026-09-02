@@ -4,7 +4,7 @@
 
 ## Problem
 
-Your task is to use _for_ loops to display only _odd_ natural numbers from $1$ to $99$.
+Your task is to use _for_ loops to display only _odd_ natural numbers from $1$ to $99$.  
     
 
 **Input Format**
