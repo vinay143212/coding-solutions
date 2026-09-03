@@ -4,7 +4,7 @@
 
 ## Problem
 
-Write a Bash script which accepts $name$ as input and displays the greeting
+Write a Bash script which accepts $name$ as input and displays the greeting  
 "Welcome (name)"
 
 **Input Format**
