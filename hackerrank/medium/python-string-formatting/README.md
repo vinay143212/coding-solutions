@@ -8,7 +8,7 @@ Given an integer, $n$, print the following values for each integer $i$ from $1$ 
 
 1. Decimal
 2. Octal
-3. Hexadecimal (capitalized)
+3. Hexadecimal (capitalized)  
 4. Binary
 
 **Function Description**   
