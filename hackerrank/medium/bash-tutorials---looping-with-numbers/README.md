@@ -33,7 +33,7 @@ Use a _for_ loop to display the natural numbers from $1$ to $50$.
 **Language:** Bash  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-04T09:12:47.841Z  
+**Submitted:** 2026-09-04T09:13:38.460Z  
 
 ```sh
 for i in {1..50}
