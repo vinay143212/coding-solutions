@@ -2,7 +2,7 @@
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
-## Problem
+## Problem   
 
 In Python, a string of text can be aligned *left, right* and *center*.
 
