@@ -4,7 +4,7 @@
 
 ## Problem
 
-Kevin and Stuart want to play the '__The Minion Game__'.<br>
+Kevin and Stuart want to play the '__The Minion Game__'.<br>  
 
 
 __Game Rules__<br>
