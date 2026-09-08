@@ -1,6 +1,6 @@
 # The World of Numbers
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)  
 
 ## Problem
 
