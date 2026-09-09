@@ -67,9 +67,9 @@ Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 ## Solution
 
 **Language:** Python  
-**Runtime:** 11 ms (beats 13.96%)  
-**Memory:** 19.1 MB (beats 89.42%)  
-**Submitted:** 2026-09-09T12:29:13.055Z  
+**Runtime:** 7 ms (beats 41.28%)  
+**Memory:** 19.2 MB (beats 58.44%)  
+**Submitted:** 2026-09-09T12:29:48.986Z  
 
 ```py
 class Solution:
