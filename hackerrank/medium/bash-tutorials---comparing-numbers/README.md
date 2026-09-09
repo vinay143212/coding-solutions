@@ -4,7 +4,7 @@
 
 ## Problem
 
-Given two integers, $X$ and $Y$, identify whether $X \lt Y$ or $X \gt Y$ or $X = Y$.   
+Given two integers, $X$ and $Y$, identify whether $X \lt Y$ or $X \gt Y$ or $X = Y$.     
 
 
 Exactly one of the following lines:   
