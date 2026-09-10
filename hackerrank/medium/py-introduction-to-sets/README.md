@@ -6,7 +6,7 @@
 
 A *set* is an unordered collection of elements without duplicate entries. 
 <br /> 
-When printed, iterated or converted into a sequence, its elements will appear in an arbitrary order.
+When printed, iterated or converted into a sequence, its elements will appear in an arbitrary order.   
 
 __Example__
 
