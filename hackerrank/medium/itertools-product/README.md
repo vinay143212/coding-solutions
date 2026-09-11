@@ -6,7 +6,7 @@
 
 __[itertools.product()](https://docs.python.org/2/library/itertools.html#itertools.product)__
 
-This tool computes the [cartesian product](https://en.wikipedia.org/wiki/Cartesian_product) of input iterables.  
+This tool computes the [cartesian product](https://en.wikipedia.org/wiki/Cartesian_product) of input iterables.       
 It is equivalent to nested *for-loops*.  
 For example, `product(A, B)` returns the same as `((x,y) for x in A for y in B)`.  
   
