@@ -4,7 +4,7 @@
 
 ## Problem   
 
-In Python, a string of text can be aligned *left, right* and *center*.  
+In Python, a string of text can be aligned *left, right* and *center*.     
 
 __.ljust(width)__
 
