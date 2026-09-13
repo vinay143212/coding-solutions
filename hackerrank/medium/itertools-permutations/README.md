@@ -4,7 +4,7 @@
 
 ## Problem
 
-__[itertools.permutations(iterable[, r])](https://docs.python.org/2/library/itertools.html#itertools.permutations)__
+__[itertools.permutations(iterable[, r])](https://docs.python.org/2/library/itertools.html#itertools.permutations)__  
 
 This tool returns successive $r$ length permutations of elements in an iterable.  
 
