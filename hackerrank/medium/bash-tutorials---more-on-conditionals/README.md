@@ -9,7 +9,7 @@ Given three integers ($X$, $Y$, and $Z$) representing the three sides of a trian
 - If all three sides are equal, output `EQUILATERAL`.  
 - Otherwise, if any two sides are equal, output `ISOSCELES`.  
 - Otherwise, output `SCALENE`.  
-
+  
 **Input Format**
 
 Three integers, each on a new line.
