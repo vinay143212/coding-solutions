@@ -1,7 +1,7 @@
 # More on Conditionals
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
-
+  
 ## Problem
 
 Given three integers ($X$, $Y$, and $Z$) representing the three sides of a triangle, identify whether the triangle is scalene, isosceles, or equilateral.
