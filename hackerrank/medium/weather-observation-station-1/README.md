@@ -1,6 +1,6 @@
 # Weather Observation Station 1
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)  
 
 ## Problem
 
