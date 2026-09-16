@@ -25,18 +25,14 @@ For example, if there are three records in the table with **CITY** values 'New Y
 
 ## Solution
 
-**Language:** db2  
+**Language:** SQL  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-16T10:26:34.953Z  
+**Submitted:** 2026-09-16T10:27:19.538Z  
 
-```db2
-
+```sql
 /*
-    Enter your query here and follow these instructions:
-    1. Please append a semicolon ";" at the end of the query and enter your query in a single line to avoid error.
-    2. The AS keyword causes errors, so follow this convention: "Select t.Field From table1 t" instead of "select t.Field From table1 AS t"
-    3. Type your code immediately after comment. Don't leave any blank line.
+Enter your query here.
 */
 SELECT COUNT(CITY) - COUNT(DISTINCT CITY) FROM STATION;
 
