@@ -16,7 +16,7 @@ There is one line of text, $name$.
  
 
 **Output Format**
-
+  
 One line: "Welcome (name)" (quotation marks excluded).  
 The evaluation will be case-sensitive.
 
