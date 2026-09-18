@@ -15,7 +15,7 @@ In Python, a string can be split on a delimiter.
     
 Joining a string is simple:     
 
-	>>> a = "-".join(a)
+	>>> a = "-".join(a)  
 	>>> print a
     this-is-a-string 
     
