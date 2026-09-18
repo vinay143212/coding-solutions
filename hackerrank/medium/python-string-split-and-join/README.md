@@ -13,7 +13,7 @@ In Python, a string can be split on a delimiter.
     >>> print a
     ['this', 'is', 'a', 'string']
     
-Joining a string is simple:  
+Joining a string is simple:     
 
 	>>> a = "-".join(a)
 	>>> print a
