@@ -2,7 +2,7 @@
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
-## Problem
+## Problem  
 
 Given $N$ integers, compute their average, rounded to three decimal places.  
 
