@@ -1,7 +1,7 @@
 # Compute the Average
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
-
+  
 ## Problem  
 
 Given $N$ integers, compute their average, rounded to three decimal places.  
