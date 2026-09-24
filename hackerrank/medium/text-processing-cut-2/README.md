@@ -7,7 +7,7 @@
 Display the $2$<sup>$nd$</sup> and $7$<sup>$th$</sup> character from each line of text.  
 
 **Input Format**
-
+ 
  A text file with $N$ lines of [ASCII](https://en.wikipedia.org/wiki/ASCII) text only.
 
 
