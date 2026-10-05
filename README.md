@@ -30,7 +30,7 @@
 | SQL | **11** |
 | db2 | **2** |
 
-## 📂 Repository Structure
+## 📂 Repository Structure  
 
 ```
 📦 coding-solutions/
