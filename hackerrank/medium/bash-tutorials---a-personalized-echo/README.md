@@ -3,7 +3,7 @@
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
 ## Problem
-
+  
 Write a Bash script which accepts $name$ as input and displays the greeting    
 "Welcome (name)"   
 
