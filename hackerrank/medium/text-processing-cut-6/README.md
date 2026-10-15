@@ -12,7 +12,7 @@ Print the characters from thirteenth position to the end.
 A text file with lines of ASCII text only.  
 
 
-**Constraints**
+**Constraints**  
 
 $1 \leq N \leq 100$
 
