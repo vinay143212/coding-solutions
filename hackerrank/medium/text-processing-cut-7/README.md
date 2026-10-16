@@ -29,7 +29,7 @@ For each input  sentence, identify and display its fourth word. Assume that the 
 **Language:** Bash  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-16T12:44:30.793Z  
+**Submitted:** 2026-10-16T12:46:17.766Z  
 
 ```sh
 while read line;
