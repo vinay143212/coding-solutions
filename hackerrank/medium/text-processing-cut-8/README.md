@@ -30,7 +30,7 @@ For each input  sentence, identify and display its first three words. Assume tha
 **Language:** Bash  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-17T03:27:43.574Z  
+**Submitted:** 2026-10-17T03:30:12.974Z  
 
 ```sh
 while read -r line;
