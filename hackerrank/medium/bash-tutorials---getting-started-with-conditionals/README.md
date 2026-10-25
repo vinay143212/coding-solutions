@@ -1,6 +1,6 @@
 # Getting started with conditionals
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
+![Difficulty]  (https://img.shields.io/badge/Difficulty-Medium-yellow)
 
 ## Problem
 
