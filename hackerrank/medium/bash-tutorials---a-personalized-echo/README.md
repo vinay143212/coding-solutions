@@ -1,4 +1,4 @@
-# A Personalized Echo
+# A Personalized Echo. 
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
