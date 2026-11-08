@@ -2,7 +2,7 @@
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
-## Problem
+## Problem   
 
 Write a query that prints a list of employee names (i.e.: the _name_ attribute) from the **Employee** table in alphabetical order.
 
