@@ -1,6 +1,6 @@
 # A Personalized Echo. 
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
+![Difficulty] (https://img.shields.io/badge/Difficulty-Medium-yellow)
 
 ## Problem
   
