@@ -1,5 +1,5 @@
 # Compute the Average
-
+    
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
   
 ## Problem  
