@@ -14,7 +14,7 @@ Given three integers ($X$, $Y$, and $Z$) representing the three sides of a trian
 
 Three integers, each on a new line.
 
-**Constraints**
+**Constraints**. 
 
 $1 \le X,Y,Z \le 1000$  
 The sum of any two sides will be greater than the third.  
