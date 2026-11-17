@@ -20,7 +20,7 @@ The first line contains $n$. The second line contains an array $A[$ $]$ of $n$ i
 + $2 \le n \le 10$  
 + $-100 \le A[i] \le 100$
 
-
+   
 
 **Output Format**
 
