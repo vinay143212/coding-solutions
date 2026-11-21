@@ -11,7 +11,7 @@ Use a _for_ loop to display the natural numbers from $1$ to $50$.
 *There is no input*  
 
 **Constraints**
-
+  
  
 
 **Output Format**
