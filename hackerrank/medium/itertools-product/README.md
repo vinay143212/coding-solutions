@@ -10,7 +10,7 @@ This tool computes the [cartesian product](https://en.wikipedia.org/wiki/Cartesi
 It is equivalent to nested *for-loops*.  
 For example, `product(A, B)` returns the same as `((x,y) for x in A for y in B)`.  
   
-__<sub>Sample Code</sub>__
+__<sub>Sample Code</sub>__. 
 
 	>>> from itertools import product
     >>>
