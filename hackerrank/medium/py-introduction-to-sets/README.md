@@ -34,7 +34,7 @@ __Example__
 
 Basically, sets are used for membership testing and eliminating duplicate entries.
 <br><br>
-__Task__  
+__Task__    
 
 Now, let's use our knowledge of sets and help Mickey. 
 
