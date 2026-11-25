@@ -21,7 +21,7 @@ One character
 **Constraints**
 
 The character will be from the set $\{yYnN\}$.
-
+  
 **Output Format**
 
 echo `YES` or `NO` to STDOUT.
