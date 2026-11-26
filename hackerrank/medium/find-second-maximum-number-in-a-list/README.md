@@ -25,7 +25,7 @@ The first line contains $n$. The second line contains an array $A[$ $]$ of $n$ i
 **Output Format**
 
 Print the runner-up score.
-
+  
 ## Solution
 
 **Language:** Python  
