@@ -23,7 +23,7 @@ The evaluation will be case-sensitive.
 **Sample Input 0**  
 
     Dan  
-    
+      
 **Sample Output 0**  
 
     Welcome Dan  
